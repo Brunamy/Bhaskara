@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(105, 173, 245);
+}
+
+main {
+    background-color: rgb(209, 231, 254);
+    border: 2px solid black;
+    padding: 20px;
+    width: 35%;
+    height: 40px;
+}
